@@ -1,0 +1,6 @@
+{
+  "name": "ShortCraft Studio",
+  "description": "Short-form video creative studio generating high-retention opening hooks, time-blocked scripts, and thumbnail + title synergy for YouTube Shorts, Instagram Reels, and TikTok.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
